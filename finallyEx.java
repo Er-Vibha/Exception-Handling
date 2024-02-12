@@ -9,7 +9,7 @@ public class finallyEx {
             System.out.println(e);
         }
         finally {
-            System.out.println("This is finally block ");
+            System.out.println("This is finally block ");//Finally block will execute
         }
     }
 }
